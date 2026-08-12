@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-12T18:58:43Z",
+  "generated_at_utc": "2026-08-12T20:41:44Z",
   "as_of_market_date": "2026-08-12",
   "round_start": "2026-06-02",
   "start_cash": 100000.0,
@@ -8,9 +8,9 @@
     {
       "name": "aarya",
       "label": "round 1 \u00b7 entrant",
-      "equity": 110276.73,
-      "pnl": 10276.73,
-      "ret": 0.1028,
+      "equity": 110246.83,
+      "pnl": 10246.83,
+      "ret": 0.1025,
       "trades": 5,
       "cash": 26417.69,
       "holdings": [
@@ -39,9 +39,9 @@
     {
       "name": "dual-momentum-rotation",
       "label": "house \u00b7 all-weather",
-      "equity": 102478.73,
-      "pnl": 2478.73,
-      "ret": 0.0248,
+      "equity": 102359.74,
+      "pnl": 2359.74,
+      "ret": 0.0236,
       "trades": 5,
       "cash": 447.72,
       "holdings": [
@@ -70,15 +70,15 @@
     {
       "name": "balaji",
       "label": "round 1 \u00b7 entrant",
-      "equity": 101278.75,
-      "pnl": 1278.75,
-      "ret": 0.0128,
+      "equity": 101211.51,
+      "pnl": 1211.51,
+      "ret": 0.0121,
       "trades": 53,
-      "cash": 39164.23,
+      "cash": 39538.39,
       "holdings": [
         {
           "t": "XLI",
-          "q": 56.0
+          "q": 54.0
         },
         {
           "t": "XLV",
@@ -105,9 +105,9 @@
     {
       "name": "opu",
       "label": "round 1 \u00b7 entrant",
-      "equity": 101265.31,
-      "pnl": 1265.31,
-      "ret": 0.0127,
+      "equity": 101147.61,
+      "pnl": 1147.61,
+      "ret": 0.0115,
       "trades": 21,
       "cash": 11713.35,
       "holdings": [
@@ -132,9 +132,9 @@
     {
       "name": "vol-target",
       "label": "reference",
-      "equity": 101131.05,
-      "pnl": 1131.05,
-      "ret": 0.0113,
+      "equity": 101095.43,
+      "pnl": 1095.43,
+      "ret": 0.011,
       "trades": 15,
       "cash": 71259.78,
       "holdings": [
@@ -163,9 +163,9 @@
     {
       "name": "ajai",
       "label": "round 1 \u00b7 entrant",
-      "equity": 100538.94,
-      "pnl": 538.94,
-      "ret": 0.0054,
+      "equity": 100555.25,
+      "pnl": 555.25,
+      "ret": 0.0056,
       "trades": 33,
       "cash": 65136.74,
       "holdings": [
@@ -194,9 +194,9 @@
     {
       "name": "darshan",
       "label": "round 1 \u00b7 entrant",
-      "equity": 99915.61,
-      "pnl": -84.39,
-      "ret": -0.0008,
+      "equity": 99914.78,
+      "pnl": -85.22,
+      "ret": -0.0009,
       "trades": 42,
       "cash": 30255.28,
       "holdings": [
@@ -233,9 +233,9 @@
     {
       "name": "sector-rotation",
       "label": "reference",
-      "equity": 99752.2,
-      "pnl": -247.8,
-      "ret": -0.0025,
+      "equity": 99610.21,
+      "pnl": -389.79,
+      "ret": -0.0039,
       "trades": 4,
       "cash": 4135.62,
       "holdings": [
@@ -260,9 +260,9 @@
     {
       "name": "ai-momentum-basket",
       "label": "house \u00b7 aggressive",
-      "equity": 98356.27,
-      "pnl": -1643.73,
-      "ret": -0.0164,
+      "equity": 98249.19,
+      "pnl": -1750.81,
+      "ret": -0.0175,
       "trades": 9,
       "cash": 0.0,
       "holdings": [
@@ -307,31 +307,31 @@
     {
       "name": "sankeerth",
       "label": "round 1 \u00b7 entrant",
-      "equity": 97227.11,
-      "pnl": -2772.89,
-      "ret": -0.0277,
-      "trades": 63,
-      "cash": 70058.74,
+      "equity": 97304.43,
+      "pnl": -2695.57,
+      "ret": -0.027,
+      "trades": 64,
+      "cash": 77179.59,
       "holdings": [
         {
-          "t": "XLF",
-          "q": 132.0
+          "t": "XLRE",
+          "q": 41.0
         },
         {
           "t": "XLV",
           "q": 40.0
         },
         {
-          "t": "XLK",
-          "q": 17.0
-        },
-        {
-          "t": "SPY",
-          "q": 6.0
+          "t": "AAPL",
+          "q": 15.0
         },
         {
           "t": "MSFT",
-          "q": 10.0
+          "q": 8.0
+        },
+        {
+          "t": "SPY",
+          "q": 4.0
         }
       ]
     },
@@ -346,9 +346,9 @@
     {
       "name": "nagarjuna",
       "label": "round 1 \u00b7 entrant",
-      "equity": 95661.04,
-      "pnl": -4338.96,
-      "ret": -0.0434,
+      "equity": 95609.4,
+      "pnl": -4390.6,
+      "ret": -0.0439,
       "trades": 67,
       "cash": 12791.02,
       "holdings": [
@@ -377,31 +377,31 @@
     {
       "name": "rohit",
       "label": "round 1 \u00b7 entrant",
-      "equity": 95126.84,
-      "pnl": -4873.16,
-      "ret": -0.0487,
+      "equity": 95115.29,
+      "pnl": -4884.71,
+      "ret": -0.0488,
       "trades": 46,
-      "cash": 44095.68,
+      "cash": 44999.95,
       "holdings": [
         {
           "t": "XLK",
-          "q": 25.0
+          "q": 28.0
         },
         {
           "t": "AVGO",
-          "q": 9.0
+          "q": 10.0
         },
         {
           "t": "AAPL",
-          "q": 14.0
+          "q": 16.0
         },
         {
           "t": "XLF",
-          "q": 266.0
+          "q": 293.0
         },
         {
-          "t": "XLRE",
-          "q": 292.0
+          "t": "XLI",
+          "q": 48.0
         },
         {
           "t": "XLV",
@@ -412,44 +412,44 @@
     {
       "name": "drawdown-momentum",
       "label": "house \u00b7 the bar to beat",
-      "equity": 94637.48,
-      "pnl": -5362.52,
-      "ret": -0.0536,
-      "trades": 55,
-      "cash": 45782.67,
+      "equity": 94909.84,
+      "pnl": -5090.16,
+      "ret": -0.0509,
+      "trades": 56,
+      "cash": 45690.15,
       "holdings": [
         {
           "t": "XLK",
-          "q": 22.0
+          "q": 24.0
         },
         {
           "t": "AAPL",
-          "q": 7.0
+          "q": 8.0
         },
         {
           "t": "XLI",
-          "q": 47.0
+          "q": 42.0
         },
         {
           "t": "XLRE",
-          "q": 260.0
+          "q": 237.0
         },
         {
           "t": "XLV",
-          "q": 51.0
+          "q": 55.0
         },
         {
           "t": "XLF",
-          "q": 236.0
+          "q": 253.0
         }
       ]
     },
     {
       "name": "arnav",
       "label": "round 1 \u00b7 entrant",
-      "equity": 94119.17,
-      "pnl": -5880.83,
-      "ret": -0.0588,
+      "equity": 94126.07,
+      "pnl": -5873.93,
+      "ret": -0.0587,
       "trades": 94,
       "cash": 57974.88,
       "holdings": [
@@ -474,9 +474,9 @@
     {
       "name": "zaid",
       "label": "round 1 \u00b7 entrant",
-      "equity": 93552.4,
-      "pnl": -6447.6,
-      "ret": -0.0645,
+      "equity": 93482.48,
+      "pnl": -6517.52,
+      "ret": -0.0652,
       "trades": 85,
       "cash": 69990.88,
       "holdings": [
@@ -489,40 +489,32 @@
     {
       "name": "robert",
       "label": "round 1 \u00b7 entrant",
-      "equity": 92831.42,
-      "pnl": -7168.58,
-      "ret": -0.0717,
-      "trades": 82,
-      "cash": 17198.2,
+      "equity": 92867.18,
+      "pnl": -7132.82,
+      "ret": -0.0713,
+      "trades": 79,
+      "cash": 65294.41,
       "holdings": [
         {
+          "t": "SPY",
+          "q": 11.0
+        },
+        {
           "t": "XLV",
-          "q": 90.0
+          "q": 56.0
         },
         {
-          "t": "BAC",
-          "q": 236.0
-        },
-        {
-          "t": "JPM",
-          "q": 41.0
-        },
-        {
-          "t": "MSFT",
-          "q": 30.0
-        },
-        {
-          "t": "WFC",
-          "q": 173.0
+          "t": "XLE",
+          "q": 158.0
         }
       ]
     },
     {
       "name": "tanishq",
       "label": "round 1 \u00b7 entrant",
-      "equity": 92067.24,
-      "pnl": -7932.76,
-      "ret": -0.0793,
+      "equity": 92063.51,
+      "pnl": -7936.49,
+      "ret": -0.0794,
       "trades": 38,
       "cash": 82270.86,
       "holdings": [
@@ -551,9 +543,9 @@
     {
       "name": "shyam",
       "label": "round 1 \u00b7 entrant",
-      "equity": 91631.14,
-      "pnl": -8368.86,
-      "ret": -0.0837,
+      "equity": 91445.55,
+      "pnl": -8554.45,
+      "ret": -0.0855,
       "trades": 36,
       "cash": 19516.37,
       "holdings": [
@@ -578,15 +570,19 @@
     {
       "name": "harsimran",
       "label": "round 1 \u00b7 entrant",
-      "equity": 91348.34,
-      "pnl": -8651.66,
-      "ret": -0.0865,
-      "trades": 132,
-      "cash": 4397.66,
+      "equity": 91450.52,
+      "pnl": -8549.48,
+      "ret": -0.0855,
+      "trades": 130,
+      "cash": 4327.46,
       "holdings": [
         {
           "t": "DIA",
-          "q": 32.0
+          "q": 33.0
+        },
+        {
+          "t": "SPY",
+          "q": 19.0
         },
         {
           "t": "XLV",
@@ -594,24 +590,20 @@
         },
         {
           "t": "XLI",
-          "q": 86.0
+          "q": 68.0
         },
         {
           "t": "XLF",
-          "q": 362.0
-        },
-        {
-          "t": "XLB",
-          "q": 221.0
+          "q": 363.0
         }
       ]
     },
     {
       "name": "aksham",
       "label": "round 1 \u00b7 entrant",
-      "equity": 89951.82,
-      "pnl": -10048.18,
-      "ret": -0.1005,
+      "equity": 89902.35,
+      "pnl": -10097.65,
+      "ret": -0.101,
       "trades": 70,
       "cash": 30506.01,
       "holdings": [
@@ -632,9 +624,9 @@
     {
       "name": "mohit",
       "label": "round 1 \u00b7 entrant",
-      "equity": 87649.01,
-      "pnl": -12350.99,
-      "ret": -0.1235,
+      "equity": 87233.91,
+      "pnl": -12766.09,
+      "ret": -0.1277,
       "trades": 54,
       "cash": 24482.11,
       "holdings": [
@@ -663,9 +655,9 @@
     {
       "name": "sumegh",
       "label": "round 1 \u00b7 entrant",
-      "equity": 87061.66,
-      "pnl": -12938.34,
-      "ret": -0.1294,
+      "equity": 87051.29,
+      "pnl": -12948.71,
+      "ret": -0.1295,
       "trades": 24,
       "cash": 42527.39,
       "holdings": [
@@ -682,10 +674,10 @@
     {
       "name": "siddu",
       "label": "round 1 \u00b7 entrant",
-      "equity": 78886.21,
-      "pnl": -21113.79,
-      "ret": -0.2111,
-      "trades": 131,
+      "equity": 79023.99,
+      "pnl": -20976.01,
+      "ret": -0.2098,
+      "trades": 129,
       "cash": 0.0,
       "holdings": [
         {
@@ -699,10 +691,6 @@
         {
           "t": "UNH",
           "q": 0.4784
-        },
-        {
-          "t": "MS",
-          "q": 0.0215
         },
         {
           "t": "LLY",
@@ -726,7 +714,7 @@
         },
         {
           "t": "MA",
-          "q": 0.6462
+          "q": 0.8101
         },
         {
           "t": "JPM",
