@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-25T22:58:26Z",
+  "generated_at_utc": "2026-11-26T22:49:11Z",
   "as_of_market_date": "2026-11-25",
   "round_start": "2026-06-02",
   "start_cash": 100000.0,
@@ -39,11 +39,11 @@
     {
       "name": "balaji",
       "label": "round 1 \u00b7 entrant",
-      "equity": 101626.61,
-      "pnl": 1626.61,
+      "equity": 101626.62,
+      "pnl": 1626.62,
       "ret": 0.0163,
       "trades": 112,
-      "cash": 47751.53,
+      "cash": 47751.54,
       "holdings": [
         {
           "t": "XLP",
@@ -322,11 +322,11 @@
     {
       "name": "rohit",
       "label": "round 1 \u00b7 entrant",
-      "equity": 88784.41,
-      "pnl": -11215.59,
+      "equity": 88784.42,
+      "pnl": -11215.58,
       "ret": -0.1122,
       "trades": 114,
-      "cash": 81646.26,
+      "cash": 81646.27,
       "holdings": [
         {
           "t": "XLV",
@@ -434,11 +434,11 @@
     {
       "name": "zaid",
       "label": "round 1 \u00b7 entrant",
-      "equity": 84922.0,
-      "pnl": -15078.0,
+      "equity": 84921.97,
+      "pnl": -15078.03,
       "ret": -0.1508,
       "trades": 188,
-      "cash": 8438.8,
+      "cash": 8438.77,
       "holdings": [
         {
           "t": "TLT",
@@ -463,7 +463,7 @@
       "pnl": -18241.43,
       "ret": -0.1824,
       "trades": 90,
-      "cash": 42653.68,
+      "cash": 42653.69,
       "holdings": [
         {
           "t": "XLP",
